@@ -7,5 +7,6 @@
 ## 🚧 Projetos em destaque
 - [Mão Amiga - Plataforma de Apoio Social](https://projeto-mao-amiga.vercel.app/)
 - [BrokeTheBlock](https://broke-the-block.vercel.app/)
+- [Moli® - Crie Animações Fantásticas](https://moli-indol.vercel.app/)
 
 📫 Entre em contato: [Email](mailto:pedrohenriqvesouza@gmail.com)
