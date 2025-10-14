@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Pedro Henrique
 
-🎓 Estudante de Sistemas de Informação na UniFOA em Volta Redonda. 
-💻 Desenvolvimento Web | Front-End.
+🎓 Estudante de Sistemas de Informação na UniFOA em Volta Redonda.    
+💻 Desenvolvimento Web | Front-End.          
 🚀 Estou sempre aprendendo e buscando evoluir.  
 
 ## 🚧 Projetos em destaque
