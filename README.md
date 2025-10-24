@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Pedro Henrique
+# 👋 Oi, meu nome é Pedro Henrique
 
 🎓 Estudante de Sistemas de Informação na UniFOA em Volta Redonda.    
 💻 Desenvolvimento Web | Front-End.          
@@ -9,6 +9,6 @@
 - [BrokeTheBlock](https://broke-the-block.vercel.app/)
 - [Moli® - Crie Animações Fantásticas](https://moli-indol.vercel.app/)
 - [Loja 8do7 (bootstrap)](https://loja-8do7-bootstrap.vercel.app/)
-- [SportsWear (bootstrap](https://sports-wear-omega.vercel.app/) 
+- [SportsWear (bootstrap)](https://sports-wear-omega.vercel.app/) 
 
 📫 Entre em contato: [Email](mailto:pedrohenriqvesouza@gmail.com)
