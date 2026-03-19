@@ -1,7 +1,7 @@
 # 👋 Oi, meu nome é Pedro Henrique
 
 • Estudante de Engenharia na UniFOA em Volta Redonda.    
-• Desenvolvimento Web | Front-End.          
+• Desenvolvimento de Projetos.          
 • Sempre estudando e evoluindo.  
 
 ## Projetos em destaque
