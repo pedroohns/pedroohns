@@ -1,10 +1,10 @@
 # 👋 Oi, meu nome é Pedro Henrique
 
-🎓 Estudante de Engenharia da Computação na UniFOA em Volta Redonda.    
-💻 Desenvolvimento Web | Front-End.          
-🚀 Sempre estudando e evoluindo.  
+• Estudante de Engenharia na UniFOA em Volta Redonda.    
+• Desenvolvimento Web | Front-End.          
+• Sempre estudando e evoluindo.  
 
-## 🚧 Projetos em destaque
+## Projetos em destaque
 - [Mão Amiga - Plataforma de Apoio Social](https://projeto-mao-amiga.vercel.app/)
 - [BrokeTheBlock](https://broke-the-block.vercel.app/)
 - [Moli® - Crie Animações Fantásticas](https://moli-indol.vercel.app/)
