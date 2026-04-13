@@ -1,6 +1,6 @@
 # 👋 Oi, meu nome é Pedro Henrique
 
-• Estudante de Engenharia na UniFOA em Volta Redonda.    
+• Estudante de Sistemas de Informação na UniFOA em Volta Redonda.    
 • Desenvolvimento de Projetos.          
 • Sempre estudando e evoluindo.  
 
